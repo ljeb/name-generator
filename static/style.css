@@ -1,0 +1,47 @@
+
+body{
+  opacity: 1;
+  font-family: 'Raleway', sans-serif;
+  background-color: #caffbd;
+  text-align: center;
+  width: auto;
+}
+
+input{
+  width: 400px;
+  height: 50px;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.header{
+  top: 50px;
+  position: relative;
+  text-shadow: 1px 1px 5px white;
+  text-align: center;
+}
+
+.block {
+  background: white;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 5px #B5E5AA;
+  border: 3px solid #000066;
+  border-radius: 10px;
+  margin: 100px auto;
+  padding: 120px;
+}
+
+#button{
+  width: 500px;
+  background: white;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 5px #B5E5AA;
+  border: 3px solid #000066;
+  border-radius: 10px;
+  padding: 50px;
+
+}
