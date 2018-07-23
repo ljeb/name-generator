@@ -1,2 +1,2 @@
-# petname-generator
-petname generator for you and your boo:
+# name-generator
+cool names 4 u and ur boyz
